@@ -7,13 +7,13 @@ widget: hero
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  FINISTERRA  
+  FINISTERRA
   ERC Project
 hero_media: escoural.jpg
-#design:
-#  background:
-#    color: "#dfb64d"
-#    text_color_light: true
+design:
+  background:
+    color: "#fff"
+    text_color_light: true
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
