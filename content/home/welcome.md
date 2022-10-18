@@ -10,10 +10,10 @@ title: |
   FINISTERRA  
   ERC Project
 hero_media: escoural.jpg
-design:
-  background:
-    color: "#dfb64d"
-    text_color_light: true
+#design:
+#  background:
+#    color: "#dfb64d"
+#    text_color_light: true
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
